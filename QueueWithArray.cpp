@@ -1,8 +1,6 @@
 #include <iostream>
 using namespace std;
 
-// This was alot easier than the stack actually.
-
 //Array Size:
 #define SIZE 5 
 
