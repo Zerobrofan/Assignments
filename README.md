@@ -1,4 +1,4 @@
-# C++ Assignments 😢
+# C++ Assignments
 
 This repo holds a collection of c++ assignments I did for university.
 
