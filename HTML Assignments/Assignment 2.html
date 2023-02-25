@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Assignment 2</title>
+
+    <style>
+            /* Split the screen in half */
+        .split {
+            height: 100%;
+            width: 50%;
+            position: fixed;
+            z-index: 1;
+            top: 0;
+            overflow-x: hidden;
+            padding-top: 20px;
+        }
+
+        /* Control the left side */
+        .left {
+            left: 0;
+            background-color: rgb(93, 250, 177);
+        }
+
+        /* Control the right side */
+        .right {
+            right: 0;
+            background-color: rgb(155, 255, 230);
+        }
+    </style>
+</head>
+<body>
+    <div class="split left">
+            <h2>In Class Assignments</h2>
+            <br>
+            <p style="color:blue"><u>practice html</u></p>
+            <p style="color:blue"><u>Trillium</u></p>
+    </div>
+    
+    <div class="split right">
+            <h2>Homework</h2>
+            <br>
+            <h3>Packet 1</h3>
+            <ul style="list-style-type: disc;">
+                <li style="color:blue"><u>Assignment 1</u></li>
+                <li>Assignment 2</li>
+                <li>Assignment 3</li>
+            </ul>
+            <br>
+            <h3>Packet 2</h3>
+            <ul style="list-style-type: disc;">
+                <li>Assignment 5A</li>
+                <li>Assignment 5B</li>
+                <li>Assignment 6</li>
+            </ul>
+    </div>
+</body>
+</html>
