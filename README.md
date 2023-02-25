@@ -1,5 +1,5 @@
-# Assignments 😢
+# C++ Assignments 😢
 
-This repo holds all of my assignments during university.
+This repo holds a collection of c++ assignments I did for university.
 
-You'll find various projects using all kinds of languages here so check them out!
+Feel free to check them out!
